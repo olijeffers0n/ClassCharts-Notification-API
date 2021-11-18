@@ -1,2 +1,2 @@
 USERCODE: XXXXXXXXXX
-DOB: XX/XX/XXXX
+DOB: dd/mm/yyyy
